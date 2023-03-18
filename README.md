@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi, I’m Mohamad Risha
-👀 I Study in UCAS
-🌱 Full stack web developer.
-📫 Contact via Email: mohd.ris.2000@gmail.com
-👨‍💻 I am able to write codes extremely good in various programming languages: HTML, CSS, JavaScript, PHP, Bootstrap, Laravel, Woordpress, Vue.js, MySQL.
+- 👋 Hi, I’m Mohamad Risha
+- 👀 I Study in UCAS
+- 🌱 Full stack web developer.
+- 📫 Contact via Email: mohd.ris.2000@gmail.com
+- 👨‍💻 I am able to write codes extremely good in various programming languages: HTML, CSS, JavaScript, PHP, Bootstrap, Laravel, Woordpress, Vue.js, MySQL.
